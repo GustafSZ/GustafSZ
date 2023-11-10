@@ -1,0 +1,2 @@
+-  Hi, I’m @GustafSZ
+-  Actually trying to learn JS and Python
