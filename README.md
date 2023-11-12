@@ -1,6 +1,8 @@
 
 Name = Gustavo Correia
+
 class studying {
+
     constructor(JavaScript, Python, C#)
     
     this.java = Begginer
