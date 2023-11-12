@@ -4,6 +4,6 @@ class studying {
     this.python = Begginer
     this.C# = Starting
     }
-let metas = ["BackEnd", "FullStack"]
+let metas = ["BackEnd", "FullStack"
 
 
